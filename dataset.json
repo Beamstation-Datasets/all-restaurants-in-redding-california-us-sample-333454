@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant intelligence dataset for Redding, California. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Redding, California, US",
+  "export_job_id": "2dbe07db-d9cf-48ee-9d80-2830e2276cf6",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 333454,
+  "location_name": "Redding",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-redding-california-us-sample-333454",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/333454/beamstation_333454_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.88,
+  "sample_records": 16,
+  "sample_sha256": "fa608783204a4775b0d1da2b9fdd7bd5f62486e394f791e203ecd0061d1587ee",
+  "sample_size_bytes": 74063,
+  "total_records": 162,
+  "updated_at": "2026-04-07T10:43:59.373398+00:00"
+}
