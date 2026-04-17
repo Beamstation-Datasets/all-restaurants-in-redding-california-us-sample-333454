@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2dbe07db-d9cf-48ee-9d80-2830e2276cf6",
+  "export_job_id": "7bd007ef-4b37-4ae1-b53c-5b506f800d56",
   "id_short": 333454,
-  "published_at": "2026-04-11T07:30:19Z",
+  "published_at": "2026-04-17T07:45:45Z",
   "repo_name": "all-restaurants-in-redding-california-us-sample-333454",
   "sample_asset_name": "beamstation_333454_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/333454/beamstation_333454_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_records": 16,
-  "sample_sha256": "fa608783204a4775b0d1da2b9fdd7bd5f62486e394f791e203ecd0061d1587ee",
-  "sample_size_bytes": 74063,
-  "total_records": 162
+  "sample_sha256": "03215b346dc8786c8a9d26d625f8325c5afd2b91f262abdd485e207bc4da7f9f",
+  "sample_size_bytes": 65589,
+  "total_records": 160
 }
