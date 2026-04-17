@@ -9,9 +9,9 @@
 | Dataset ID | `333454` |
 | Location | Redding |
 | Category | Restaurants |
-| Full dataset size | 162 records |
-| Free sample size | 16 records (9.88%) |
-| Last export | 2026-04-07T10:43:59.373398+00:00 |
+| Full dataset size | 160 records |
+| Free sample size | 16 records (10.0%) |
+| Last export | 2026-04-14T10:33:36.101103+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-redding-california-us-sample-333454/releases/download/sample-latest/beamstation_333454_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
