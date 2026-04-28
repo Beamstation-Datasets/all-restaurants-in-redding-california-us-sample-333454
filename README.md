@@ -1,6 +1,6 @@
 # All Restaurants in Redding, California, US
 
-> Free BeamStation sample export with 13 rows and masked direct-contact fields.
+> Free BeamStation sample export with 16 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `333454` |
 | Location | Redding |
 | Category | Restaurants |
-| Full dataset size | 134 records |
-| Free sample size | 13 records (9.7%) |
-| Last export | 2026-04-21T10:45:56.054030+00:00 |
+| Full dataset size | 160 records |
+| Free sample size | 16 records (10.0%) |
+| Last export | 2026-04-28T11:18:21.382643+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-redding-california-us-sample-333454/releases/download/sample-latest/beamstation_333454_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
